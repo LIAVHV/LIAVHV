@@ -1,5 +1,5 @@
 <head>
-    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="https://github.com/LIAVHV/LIAVHV/blob/aa8366ad8ca65d518d6c01f555102743adfc09d2/styles.css">
 </head>
 
 👋 VICTOR HUGO
