@@ -1,7 +1,3 @@
-<head>
-    <link rel="stylesheet" href="styles.css">
-</head>
-
 👋 VICTOR HUGO
 
 👀 ESTOY INTERESADO EN APRENDER Y APORTAR CONOCIMIENTO
