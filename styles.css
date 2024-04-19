@@ -1,0 +1,30 @@
+body {
+    font-family: 'Fira Code Medium';
+    font-size: 16px;
+    color: #EEE4B1;
+    background-color: #222831;
+}
+
+
+h2 {
+    color: aquamarine;
+}
+
+h3 {
+    color: lightskyblue;
+}
+
+p{
+    color: gainsboro;
+}
+
+ul>li{
+    color: lightgreen;
+}
+
+pre {
+    border: 1px solid darkolivegreen;
+    border-radius: 5px;
+    background-color: #3b3b3b;
+    color: lightgray !important;
+}
